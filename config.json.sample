@@ -1,0 +1,13 @@
+{
+  "bot": {
+    "token": "YjQ4ODMyNTI0NzG3NDMwsDAw.CdNZBQ.fG5QVSUj7Gunf7CTTh69jG18tiQ",
+    "game": "Music Bot | !@help",
+    "prefix": "!@",
+    "purgetime": 10 // In secons
+  },
+  "settings": {
+  },
+  "api_keys": {
+    "youtube": "UIzRSyFyg75iDJbsKhaYk97UtgFriJjbo8uLH57"
+  }
+}

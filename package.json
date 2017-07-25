@@ -1,0 +1,14 @@
+{
+  "name": "Monkey",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Leonardo Gago",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "node-opus": "^0.2.6",
+    "simple-youtube-api": "^2.1.0",
+    "winston": "^2.3.1",
+    "ytdl-core": "^0.14.4"
+  }
+}
